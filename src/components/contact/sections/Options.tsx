@@ -19,9 +19,9 @@ const Options = () => {
           className={'optionInfo'}
         >
           If you have any suggestions or ideas that can help us to
-          improve how Design and Code functions or operate, also if you
-          can conduct design sessions, workshops, or meetups. Do write
-          them to us.
+          improve how Design and Code functions or operates, also if you
+          would like to conduct design sessions, workshops, or meetups, please 
+          write to us.
         </Typography>
         <OutlinedButton size="medium" className={'btn'}>
           <Typography variant="h6">Partner with us</Typography>
@@ -41,9 +41,9 @@ const Options = () => {
           className={'optionInfo'}
         >
           If you have any suggestions or ideas that can help us to
-          improve how Design and Code functions or operate, also if you
-          can conduct design sessions, workshops, or meetups. Do write
-          them to us.
+          improve how Design and Code functions or operates, also if you
+          would like to conduct design sessions, workshops, or meetups, please 
+          write to us.
         </Typography>
         <OutlinedButton size="medium" className={'btn'}>
           <Typography variant="h6">Sponsor Us</Typography>
