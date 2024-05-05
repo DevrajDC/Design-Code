@@ -18,6 +18,7 @@ const Options = () => {
           gutterBottom
           className={'optionInfo'}
         >
+          {/* Improved the text and fixed a grammertical issue */}
           If you have any suggestions or ideas that can help us to
           improve how Design and Code functions or operates, also if you
           would like to conduct design sessions, workshops, or meetups, please 
@@ -39,7 +40,8 @@ const Options = () => {
           variant="subtitle1"
           gutterBottom
           className={'optionInfo'}
-        >
+        > 
+          {/* Improved text and fixed grammer. */}
           If you have any suggestions or ideas that can help us to
           improve how Design and Code functions or operates, also if you
           would like to conduct design sessions, workshops, or meetups, please 

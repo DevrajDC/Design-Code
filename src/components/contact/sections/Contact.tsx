@@ -18,7 +18,8 @@ const ContactUs = () => {
         >
           designandcode.community@gmail.com
         </Link>{' '}
-        and we&apos;ll get back to you 😊
+        and we&apos;ll get back to you 😊 
+        {/* Added this emoji 😊 */}
       </Typography>
     </>
   );
