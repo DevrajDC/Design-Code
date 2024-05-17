@@ -19,7 +19,7 @@ const Options = () => {
           className={'optionInfo'}
         >
           If you have any suggestions or ideas that can help us to
-          improve how Design and Code functions or operate, also if you
+          improve how Design and Code functions or operates, also if you
           can conduct design sessions, workshops, or meetups. Do write
           them to us.
         </Typography>
@@ -41,7 +41,7 @@ const Options = () => {
           className={'optionInfo'}
         >
           If you have any suggestions or ideas that can help us to
-          improve how Design and Code functions or operate, also if you
+          improve how Design and Code functions or operates, also if you
           can conduct design sessions, workshops, or meetups. Do write
           them to us.
         </Typography>
