@@ -1,5 +1,5 @@
 import { Box, Typography } from '@mui/material';
-import Image from 'next/future/image';
+import Image from 'next/image';
 import React from 'react';
 import heroBackground from '~/assets/hero-section.svg';
 import { ContainedButton, OutlinedButton } from '../../common/Button';

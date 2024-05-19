@@ -1,6 +1,10 @@
-[build.environment]
-  NPM_FLAGS = "--version"
 [build]
   command = "npx pnpm install --store=node_modules/.pnpm-store && npx pnpm build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "18.17.0"
+  NPM_FLAGS = "--version"
+
 [[plugins]]
   package = "@netlify/plugin-nextjs"

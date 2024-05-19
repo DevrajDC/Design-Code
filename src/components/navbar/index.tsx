@@ -69,8 +69,8 @@ const Navbar: React.FC<NavbarProps> = ({ items }) => {
             <Link href="/">
               <Image
                 className={'branding-logo'}
-                width={300}
-                height={300}
+                width={100}
+                height={100}
                 src={'/static/branding-logos/branding-transparent-logo.svg'}
                 alt="branding-logo"
               />
