@@ -18,6 +18,7 @@ const Options = () => {
           gutterBottom
           className={'optionInfo'}
         >
+          {/* fixed grammatical issue */}
           If you have any suggestions or ideas that can help us to
           improve how Design and Code functions or operates, also if you
           can conduct design sessions, workshops, or meetups, please write
@@ -40,6 +41,7 @@ const Options = () => {
           gutterBottom
           className={'optionInfo'}
         >
+          {/* fixed grammatical issue */}
           If you have any suggestions or ideas that can help us to
           improve how Design and Code functions or operates, also if you
           can conduct design sessions, workshops, or meetups, please write
